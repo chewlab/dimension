@@ -1,18 +1,18 @@
 # theme.toml template for a Hugo theme
 # See https://github.com/spf13/hugoThemes#themetoml for an example
 
-name = "Dimension"
+name = "The Chew Lab"
 license = "Creative Commons Attribution 3.0 Unported"
 licenselink = "https://github.com/sethmacleod/dimension/blob/master/LICENSE.md"
-description = "Dimension is a single page and responsive site template using modals as pages."
-homepage = "https://github.com/sethmacleod/dimension"
-tags = ["responsive", "personal", "portfolio", "multilingual"]
+description = "The Chew Lab @ Genome Institute of Singapore"
+homepage = "https://chewlab.github.io"
+tags = ["Chew", "Genome", "Institute", "Singapore", "CRISPR"]
 features = ["responsive", "multilingual"]
 min_version = 0.18
 
 [author]
-  name = "Seth MacLeod"
-  homepage = "https://www.sethmacleod.com/"
+  name = "Wei Leong CHEW"
+  homepage = "https://chewlab.github.io"
 
 # If porting an existing theme
 [original]
